@@ -13,5 +13,5 @@ cask "freifunk-meet" do
                  "~/Library/Application Support/FreifunkMeet",
                  "~/Library/Logs/FreifunkMeet",
                ]
-  end
+end
   
