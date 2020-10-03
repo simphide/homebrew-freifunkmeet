@@ -1,6 +1,6 @@
 cask "freifunk-meet" do
-  version "2.0.27"
-  sha256 "82f8fa85843c4f7d36516566511168eadb1cf219f4301190af0d6a49b973fc22"
+  version "2.0.28"
+  sha256 "30878aa83916fada99142bdef773f04b0c0480265eec3766f27e4dca1df14e9a"
 
   url "https://github.com/freifunkMUC/jitsi-meet-electron/releases/download/v#{version}/ffmuc-meet.dmg"
   appcast "https://github.com/FreifunkMUC/jitsi-meet-electron/releases.atom"
